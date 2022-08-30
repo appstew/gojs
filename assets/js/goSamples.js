@@ -182,8 +182,15 @@ var navContent2 = `<a href="index.html">Samples Index</a>
 <a href="../samples/flowchart.html">flowchart.html</a>
 <a href="../samples/kanban3.html">kanban3.html</a>
 <a href="../samples/euler3.html">euler3.html</a>
+<a href="../samples/sequenceDiagram2.html">sequenceDiagram2.html</a>
+<a href="../samples/planogram2.html">planogram2.html</a>
+<a href="../samples/gantt2.html">gantt2.html</a>
+<a href="../samples/swimBands2.html">swimBands2.html</a>
+<a href="../samples/swimLanes2.html">swimLanes2.html</a>
+<a href="../samples/kittenMonitor2.html">kittenMonitor2.html</a>
 <a href="../samples/springMVC_JDBC.html">springMVC_JDBC</a>
 <hr>
+
 <a href="../samples/orgChartStatic.html">OrgChart (Static)</a>
 <a href="../samples/orgChartEditor.html">OrgChart Editor</a>
 <a href="../samples/familyTree.html">Family Tree</a>
